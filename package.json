@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://kayzennotdev/bail/issues"
+        "url": "https://github.com/kayzennotdev/bail/issues"
     }
 }
